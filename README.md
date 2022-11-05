@@ -1,0 +1,2 @@
+# Patterns, SOLID Homework
+ 

@@ -1,0 +1,14 @@
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.exe
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.deps.json
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.runtimeconfig.json
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.runtimeconfig.dev.json
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.dll
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.pdb
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.csproj.AssemblyReference.cache
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.GeneratedMSBuildEditorConfig.editorconfig
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.AssemblyInfoInputs.cache
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.AssemblyInfo.cs
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.dll
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.pdb
+D:\Локальный диск D\Универ\УВП-511 (Магистратура)\Управление проектом\Новая папка\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.genruntimeconfig.cache

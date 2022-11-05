@@ -1,0 +1,13 @@
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\bin\Debug\netcoreapp3.1\Logger.exe
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\bin\Debug\netcoreapp3.1\Logger.deps.json
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.json
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.dev.json
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\bin\Debug\netcoreapp3.1\Logger.dll
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\bin\Debug\netcoreapp3.1\Logger.pdb
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfoInputs.cache
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfo.cs
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\obj\Debug\netcoreapp3.1\Logger.csproj.CoreCompileInputs.cache
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\obj\Debug\netcoreapp3.1\Logger.dll
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\obj\Debug\netcoreapp3.1\Logger.pdb
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\obj\Debug\netcoreapp3.1\Logger.genruntimeconfig.cache
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab2\Lab2\Logger\obj\Debug\netcoreapp3.1\Logger.csprojAssemblyReference.cache

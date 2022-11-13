@@ -1,0 +1,13 @@
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\bin\Debug\netcoreapp3.1\SOLID_RPG.exe
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\bin\Debug\netcoreapp3.1\SOLID_RPG.deps.json
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\bin\Debug\netcoreapp3.1\SOLID_RPG.runtimeconfig.json
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\bin\Debug\netcoreapp3.1\SOLID_RPG.runtimeconfig.dev.json
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\bin\Debug\netcoreapp3.1\SOLID_RPG.dll
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\bin\Debug\netcoreapp3.1\SOLID_RPG.pdb
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\obj\Debug\netcoreapp3.1\SOLID_RPG.csprojAssemblyReference.cache
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\obj\Debug\netcoreapp3.1\SOLID_RPG.AssemblyInfoInputs.cache
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\obj\Debug\netcoreapp3.1\SOLID_RPG.AssemblyInfo.cs
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\obj\Debug\netcoreapp3.1\SOLID_RPG.csproj.CoreCompileInputs.cache
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\obj\Debug\netcoreapp3.1\SOLID_RPG.dll
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\obj\Debug\netcoreapp3.1\SOLID_RPG.pdb
+D:\Универ\УВП-511 (Магистратура)\Паттерны\Lab3\SOLID_RPG\obj\Debug\netcoreapp3.1\SOLID_RPG.genruntimeconfig.cache
